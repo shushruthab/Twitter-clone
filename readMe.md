@@ -7,3 +7,19 @@
   <img src ="https://img.shields.io/badge/PostgreSQL-green">
   <img src ="https://img.shields.io/badge/SQLAlchemy-orange">
 </p>
+
+## Project Demo
+![Final App](/demo.gif)
+
+## Description
+Twitter-clone is a full stack web application built using the Python - Flask - PostgreSQL stack. The idea was not to make the app look pretty but to get the functionality right in a simplistic approach. The database has four tables and the tables are linked as below:
+
+![Database design](db_diagram.png)
+
+## Key Features
+
+- Create accounts
+- Authentication for login, logout users
+- Search, Follow/Unfollow users
+- Create/Delete messages
+- Delete user account
