@@ -23,3 +23,19 @@ Twitter-clone is a full stack web application built using the Python - Flask - P
 - Search, Follow/Unfollow users
 - Create/Delete messages
 - Delete user account
+
+## Getting Started
+
+```python
+# Install dependencies for server & client
+pip install -r requirements.txt
+
+# Create database and seed
+createdb warbler
+python seed.py
+
+# Run server
+flask run 
+
+# Server runs on http://localhost:5000 
+```
