@@ -5,4 +5,5 @@
   <img src="https://img.shields.io/badge/Python-blue">
   <img src="https://img.shields.io/badge/Flask-pink">
   <img src ="https://img.shields.io/badge/PostgreSQL-green">
+  <img src ="https://img.shields.io/badge/SQLAlchemy-orange">
 </p>
